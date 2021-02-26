@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'screens.dart';
+
+import 'home_screen.dart';
 
 class BottomNavScreen extends StatefulWidget {
   @override
@@ -55,3 +58,5 @@ class _BottomNavScreenState extends State<BottomNavScreen> {
     );
   }
 }
+
+class StatsScreen {}

@@ -1,8 +1,5 @@
-import 'dart:html';
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
-import 'package:prakerinproject/constant.dart';
+import 'package:prakerinnai/screens/screens.dart';
 
 void main() {
   runApp(MyApp());
